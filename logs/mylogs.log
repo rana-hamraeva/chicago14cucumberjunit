@@ -1,0 +1,9 @@
+[INFO ] 2020-03-05 19:30:57.538 [main] TestLogs - on dzone.com
+[WARN ] 2020-03-05 19:30:57.540 [main] TestLogs - login in to app
+[INFO ] 2020-03-05 19:37:26.741 [main] Log - start of test
+[WARN ] 2020-03-05 19:37:26.744 [main] Log - login in to amazon 
+[ERROR] 2020-03-05 19:37:26.744 [main] Log - user loged out
+[INFO ] 2020-03-05 19:55:16.812 [main] Log - start of test
+[WARN ] 2020-03-05 19:55:16.815 [main] Log - login in to amazon 
+[ERROR] 2020-03-05 19:55:16.815 [main] Log - user loged out
+[INFO ] 2020-03-07 12:23:27.791 [main] Log - Scenario start pointheader comparisson
